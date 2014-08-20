@@ -1,5 +1,5 @@
 {
-    "name": "phpoffice/phpexcel",
+    "name": "Internet-Inovacije/phpexcel",
     "description": "PHPExcel - OpenXML - Read, Create and Write Spreadsheet documents in PHP - Spreadsheet engine",
     "keywords": ["PHP","Excel","OpenXML","xlsx","xls","spreadsheet"],
     "homepage": "http://phpexcel.codeplex.com",
@@ -21,15 +21,6 @@
             "name": "Erik Tilt"
         }
     ],
-    "require": {
-        "php": ">=5.2.0",
-        "ext-xml": "*",
-        "ext-xmlwriter": "*"
-    },
-    "recommend": {
-        "ext-zip": "*",
-        "ext-gd2": "*"
-    },
     "autoload": {
         "psr-0": {
             "PHPExcel": "Classes/"
